@@ -2154,6 +2154,7 @@
       "services" => %{
         "elasticache" => %{"endpoints" => %{"cn-north-1" => %{}, "cn-northwest-1" => %{}}},
         "config" => %{"endpoints" => %{"cn-north-1" => %{}, "cn-northwest-1" => %{}}},
+        "gamelift" => %{"endpoints" => %{"cn-north-1" => %{}, "cn-northwest-1" => %{}}},
         "iam" => %{
           "endpoints" => %{
             "aws-cn-global" => %{
